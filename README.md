@@ -5,6 +5,6 @@ A mini battery-runned car that avoids obstacles and follows the brighter light-e
 
 https://drive.google.com/open?id=1Uj9xmuziskHSL8KATfDlSYlBZ7Kqk1FP
 
-Having any issues with the project? email me: basilisvirus@hotmail.com
+Having any issues with the project? email me: christianidis@disroot.org
 
 Κατασκέυασα & προγραμμάτισα αυτοκινούμενο μικρό όχημα η κίνηση του οποίου ελέγχεται από  μικρουπολογιστή atmega328p. Αποφεύγει εμπόδια και ταυτόχρονα κινειται στη πιο φωτεινή πηγή
